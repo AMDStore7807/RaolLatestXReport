@@ -4,13 +4,13 @@ global.d = new Date();
 global.calender = d.toLocaleDateString('id');
 
 //================= { SETTINGS } =================\\
-global.prefa = ['', '!', '.', ',', '🐤', '🗿'];
+global.prefa = ['!', '.', ',', '🐤', '🗿'];
 global.owner = '';
 global.email = 'latesturltech@gmail.com';
 global.ownNumb = '';
 global.NamaOwner = '';
 global.sessionName = 'session';
-global.namabot = 'RaolLatestX';
+global.namabot = 'ZayZynBot';
 global.author = '';
 global.packname = '';
 global.yt = '';
